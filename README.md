@@ -1,11 +1,11 @@
 # Ping-Pong-Battle
 # Project Title
 
-Simple Ping-Pong-Battle.
+Simple Ping-Pong-Battle game.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+It is an old school ping pong game,where press enter to start and try to keep the ball on the board and keep doing that until one of the player misses the ball.
 
 ## Getting Started
 
