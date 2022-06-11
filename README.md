@@ -17,11 +17,8 @@ It is an old school ping pong game,where press enter to start and try to keep th
 
 This project is licensed under the MAT FRASER License.
 
-## Acknowledgments
+## Technology
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+HTML 
+CSS 
+Javascript
