@@ -1,5 +1,4 @@
 # Ping-Pong-Battle
-# Project Title
 
 Simple Ping-Pong-Battle game.
 
