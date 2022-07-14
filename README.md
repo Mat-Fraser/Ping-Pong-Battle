@@ -7,7 +7,7 @@ Simple Ping-Pong-Battle game.
 It is an old school ping pong game,where press enter to start and try to keep the ball on the board and keep doing that until one of the player misses the ball.
 
 ## Controls
-Use arrow up and arrow down to move the racket of player 1 and W and S key for player 2.
+Use **arrow** **up** and **arrow** **down** to move the racket of **player** **1** and **W** and **S** key for **player** **2**.
 
 ## How it looks 
 
