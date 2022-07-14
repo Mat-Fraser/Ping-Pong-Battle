@@ -22,6 +22,6 @@ This project is licensed under the MAT FRASER License.
 
 ## Technology
 
-- HTML 
-- CSS 
-- Javascript
+- **HTML5** 
+- **CSS3** 
+- **Javascript**
