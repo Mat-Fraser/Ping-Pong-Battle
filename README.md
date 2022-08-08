@@ -24,4 +24,4 @@ This project is licensed under the MAT FRASER License.
 
 - **HTML5** 
 - **CSS3** 
-- **Javascript**
+- **vanilla JavaScript**
